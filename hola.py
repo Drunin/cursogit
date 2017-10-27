@@ -1,2 +1,2 @@
-var ="Se usar git"
+var ="Se sss  usar git"
 print(var)
